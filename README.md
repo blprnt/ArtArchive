@@ -140,7 +140,7 @@ Class 7 - 3/13/19
 
 Since 2000, the Library's web archive program has worked to collect culturally important things from the internet. This collection has grown to include web comics, social media posts and animated GIFs. In this class, we'll look at some of the web archive's recent data releases, and examine ways to computationally explore these large sets of 'born-digital' objects. We'll also look at the ethical issues that are at the center of web archiving, particularly in respect to marginilized people.
 
-**Guest Speaker**: TBA
+**Guest Speaker**: Abbie Grotke
 
 Readings, etc:
 
