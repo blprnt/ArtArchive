@@ -2,8 +2,11 @@ Artists in the Archive - ITP, Spring 2019
 =======================
 
 Jer Thorp (jer@ocr.nyc)
+
 Office Hours: Mondays, 12:30 - 1pm
+
 Sign-up: https://calendar.google.com/calendar/selfsched?sstoken=UURJMHJSVDZsSjZBfGRlZmF1bHR8ODExYTRlMmQ4Y2VjOThhNzY0ZGEyMDJkYzJkM2M5NjQ
+
 
 Course Description:
 ---
