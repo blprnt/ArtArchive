@@ -89,7 +89,7 @@ In this class we'll dig deep into the data offerings from the LOC. Namely, we'll
 - Library Section overviews:
 
 	1. Catalina Gomez (Hispanic Reading Room) 12:15 - 12:40
-	2. TBA
+	2. Kathleen O'Neil (Manuscripts) 12:45 - 1:10
 	3. TBA
 
 Readings, etc:
