@@ -1,4 +1,10 @@
+Artists in the Archive - ITP, Spring 2019
+=======================
+
+Jer Thorp (jer@ocr.nyc)
+
 Course Description:
+---
 
 The Library of Congress holds more than 160 physical items, alongside countless more digital resources. The collection spans vast swaths of subject areas, geographical places, historical periods, and political eras. In this course we’ll learn about the unique properties of these holdings, about the ways that these objects are encoded in data, and how we can access the archive both remotely and in person. Most importantly, we’ll dream up ways that artists might interact with and interrogate the collections, to produce work in a variety of media from software to sculpture to performance.
 
