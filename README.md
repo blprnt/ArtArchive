@@ -2,6 +2,8 @@ Artists in the Archive - ITP, Spring 2019
 =======================
 
 Jer Thorp (jer@ocr.nyc)
+Office Hours: Mondays, 12:30 - 1pm
+Sign-up: https://calendar.google.com/calendar/selfsched?sstoken=UURJMHJSVDZsSjZBfGRlZmF1bHR8ODExYTRlMmQ4Y2VjOThhNzY0ZGEyMDJkYzJkM2M5NjQ
 
 Course Description:
 ---
@@ -61,7 +63,7 @@ Class 3 - 2/13/19
 For the first 175 years of its existence, the Library's data was written down on hundreds of thousands of paper cards. Then, in an effort to embrace new computing technologies, a team led by Henrietta Avram developed MARC, and changed the way libraries all around the world recorded and shared collections information. In this class we'll look at what makes a MARC record a MARC record, and we'll look at some computational ways to explore the Library's public MARC records - more than 25 million items. We'll investigate some of the shortcomings of the MARC format (and really any data schema), and we'll continue our conversations with Library staff about the various collections. 
 
 - Library Section overviews:
-	1. TBA
+	1. Meg Metcalf - General Collections 12:15 - 12:40
 	2. TBA
 	3. TBA
 
@@ -83,7 +85,7 @@ In this class we'll dig deep into the data offerings from the LOC. Namely, we'll
 
 - Library Section overviews:
 
-	1. TBA
+	1. Catalina Gomez (Hispanic Reading Room) 12:15 - 12:40
 	2. TBA
 	3. TBA
 
@@ -217,5 +219,32 @@ Class 12 - 4/24/19
 ------------
 
 - Final Project presentations
+
+
+STATEMENT OF ACADEMIC INTEGRITY 
+
+Plagiarism is presenting someone else’s work as though it were your own. More specifically, plagiarism is to present as your own: A sequence of words quoted without quotation marks from another writer or a paraphrased passage from another writer’s work or facts, ideas or images composed by someone else.
+
+STATEMENT OF PRINCIPLE 
+
+The core of the educational experience at the Tisch School of the Arts is the creation of original academic and artistic work by students for the critical review of faculty members.  It is therefore of the utmost importance that students at all times provide their instructors with an accurate sense of their current abilities and knowledge in order to receive appropriate constructive criticism and advice.  Any attempt to evade that essential, transparent transaction between instructor and student through plagiarism or cheating is educationally self-defeating and a grave violation of Tisch School of the Arts community standards.  For all the details on plagiarism, please refer to page 10 of the Tisch School of the Arts, Policies and Procedures Handbook, which can be found online at: http://students.tisch.nyu.edu/page/home.html
+
+STATEMENT ON ACCESSIBILITY 
+
+Please feel free to make suggestions to your instructor about ways in which this class could become more accessible to you.  Academic accommodations are available for students with documented disabilities. Please contact the Moses Center for Students with Disabilities at 212 998-4980 for further information.
+
+STATEMENT ON COUNSELING AND WELLNESS 
+
+Your health and safety are a priority at NYU. If you experience any health or mental health issues during this course, we encourage you to utilize the support services of the 24/7 NYU Wellness Exchange 212-443-9999. Also, all students who may require an academic accommodation due to a qualified disability, physical or mental, please register with the Moses Center 212-998-4980. Please let your instructor know if you need help connecting to these resources.
+
+STATEMENT ON USE OF ELECTRONIC DEVICES 
+
+Laptops will be an essential part of the course and may be used in class during workshops and for taking notes in lecture. Laptops must be closed during class discussions and student presentations.  Phone use in class is strictly prohibited unless directly related to a presentation of your own work or if you are asked to do so as part of the curriculum.
+
+STATEMENT ON TITLE IX 
+
+Tisch School of the Arts to dedicated to providing its students with a learning environment that is rigorous, respectful, supportive and nurturing so that they can engage in the free exchange of ideas and commit themselves fully to the study of their discipline. To that end Tisch is committed to enforcing University policies prohibiting all forms of sexual misconduct as well as discrimination on the basis of sex and gender.  Detailed information regarding these policies and the resources that are available to students through the Title IX office can be found by using the following link: Title IX at NYU.
+
+
 
 
