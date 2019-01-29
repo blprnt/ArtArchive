@@ -14,6 +14,33 @@ Course Description:
 The Library of Congress holds more than 160 million physical items, alongside countless more digital resources. The collection spans vast swaths of subject areas, geographical places, historical periods, and political eras. In this course we’ll learn about the unique properties of these holdings, about the ways that these objects are encoded in data, and how we can access the archive both remotely and in person. Most importantly, we’ll dream up ways that artists might interact with and interrogate the collections, to produce work in a variety of media from software to sculpture to performance.
 
 
+## Expectations and Workload
+
+You can expect to have three assigned readings for each thematic sections. You must complete all readings prior to class, and come ready to participate in discussion. Assignments must be posted to this GitHub repo in the appropriate folder, along with source code (where applicable). 
+
+## Grading
+
+If we were using a percentage-based grading system, the numbers would look something like this:
+
+Class participation: 30%
+Assignments + Semester Projects: 70%
+Since we’re not using a percentage-based grading system, let me put it another way: if you’re an active contributor to our discussions in class, and you complete your assignments, and you make something ambitious/excellent as a final project, you’ll pass this class. If you don’t, you won’t.
+
+## Class Rules
+
+(i) Everyone does their best to show up to class on time. If you’re going to be late, let me know in advance. If you need to miss a class for a real reason, you must also let me know in advance.
+
+(ii) Everyone does the readings. For the most part, they’re short, fun, and useful.
+
+(iii) All assignment work is due at the beginning of class. Everyone gets a free pass for one late assignment. After that, any assignments not ready for the start of class will be counted as incomplete.
+
+(iv) Everyone in the class must attend office hours at least once in first three weeks of class.
+
+(v) We’ll have a series of guest speakers coming into class over the course of the term. I will provide resources to learn about their work prior to their visits – everyone in class must do their homework and be prepared to learn from our guests.
+
+(vi) I am 100% dedicated to a inclusive, harassment-free experience for everyone regardless of gender, race, sexual orientation, disability, appearance, or religion. I will not tolerate harassment of class participants in any form.
+
+
 Class 1 - 1/30/19
 ------------
 
