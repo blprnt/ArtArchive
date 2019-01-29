@@ -68,7 +68,7 @@ For the first 175 years of its existence, the Library's data was written down on
 - Library Section overviews:
 	1. Meg Metcalf - General Collections 12:15 - 12:40
 	2. TBA
-	3. TBA
+	3. Maya Lerner - AFC - 2:30pm - 3:00
 
 Readings, etc:
 
