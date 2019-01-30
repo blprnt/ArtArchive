@@ -69,11 +69,7 @@ Class 2 - 2/6/19
 
 The central question of this course is: how can artist engage creatively and critically with the Library of Congress, through its collections and associated data? In this class we'll review a series of artworks which have engaged with collections (libraries, museums, and other stranger archives). We'll use these artworks to create a taxonomy of types of possible engagements, and will map out possibility space for projects in this course. We'll also start a series of conversations with Library staff about the main collections and what they hold. 
 
-- Library Section overviews:
-
-	1. TBA
-	2. TBA
-	3. TBA
+Guest Speaker: TBA
 
 Readings, etc:
 
@@ -117,7 +113,7 @@ In this class we'll dig deep into the data offerings from the LOC. Namely, we'll
 
 	1. Catalina Gomez (Hispanic Reading Room) 12:15 - 12:40
 	2. Kathleen O'Neil (Manuscripts) 12:45 - 1:10
-	3. TBA
+	3. Ryab Brubacher (Prints & Photographs) 1:15 - 1:40
 
 Readings, etc:
 
@@ -194,6 +190,8 @@ Readings, etc:
 2. Understanding Indigenous Data Sovereignty - Tahu Kakatai https://www.youtube.com/watch?v=BWX8qS0mTAg
 
 3. Ancestral Voices Roundtable - http://www.loc.gov/today/cyberlc/feature_wdesc.php?rec=8530&loclr=eanw
+
+4. Artist in the Archive Episode 8: https://artistinthearchive.podbean.com/e/episode-8-thirty-one-cylinders/
 
 Assignment: 
 
