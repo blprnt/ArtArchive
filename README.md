@@ -113,7 +113,7 @@ In this class we'll dig deep into the data offerings from the LOC. Namely, we'll
 
 	1. Catalina Gomez (Hispanic Reading Room) 12:15 - 12:40
 	2. Kathleen O'Neil (Manuscripts) 12:45 - 1:10
-	3. Ryab Brubacher (Prints & Photographs) 1:15 - 1:40
+	3. Ryab Brubacher (Prints & Photographs) 1:15 - 2:00
 
 Readings, etc:
 
