@@ -161,20 +161,20 @@ SMALL FINDER: Using Glitch, create a small software tool which offers a unique w
 Class 7 - 3/13/19
 ------------
 
-Since 2000, the Library's web archive program has worked to collect culturally important things from the internet. This collection has grown to include web comics, social media posts and animated GIFs. In this class, we'll look at some of the web archive's recent data releases, and examine ways to computationally explore these large sets of 'born-digital' objects. We'll also look at the ethical issues that are at the center of web archiving, particularly in respect to marginilized people.
 
-**Guest Speaker**: Abbie Grotke
+In this class, we'll take a deep dive into one of the Library's most facscinating holdings: the Sanborne Fire Insurance Maps. First published in 1867, these detailed maps of cities were made to allow fire insurance companies to assess liability in urban areas. For almost 70 years, these maps were made in more than 12,000 US cities and town, and as a whole they represent a remarkable record of the country's history. We'll look at how the maps were made, and how we can examine and use them. We'll hear about a new initiative at the LOC to use machine learning to extract information from these maps, greatly increasing their utility to historians, city planners - and artists!
+
+**Guest Speaker**: John Hessler
 
 Readings, etc:
 
-Confronting Our Failure of Care Around the Legacies of Marginalized People in the Archives - Bergis Jules: https://medium.com/on-archivy/confronting-our-failure-of-care-around-the-legacies-of-marginalized-people-in-the-archives-dc4180397280
+1. A Place for Big Data - Yanni Loukissas: https://journals.sagepub.com/doi/abs/10.1177/2053951716661365
 
-Not All Information Wants to Be Free - Tara Robertson: http://eprints.rclis.org/32463/1/Applying%20Library%20Values%20to%20Emerging%20Technology_Chapter%2015.pdf
+2. Sanborn Samplers - Gary Fitzpatrick: https://www.loc.gov/collections/sanborn-maps/articles-and-essays/sanborn-samplers
 
 Assignment: 
 
 TBA
-
 
 Class 8 - 3/27/19
 ------------
@@ -221,15 +221,15 @@ TBA
 Class 10 - 4/10/19
 ------------
 
-n this class, we'll take a deep dive into one of the Library's most facscinating holdings: the Sanborne Fire Insurance Maps. First published in 1867, these detailed maps of cities were made to allow fire insurance companies to assess liability in urban areas. For almost 70 years, these maps were made in more than 12,000 US cities and town, and as a whole they represent a remarkable record of the country's history. We'll look at how the maps were made, and how we can examine and use them. We'll hear about a new initiative at the LOC to use machine learning to extract information from these maps, greatly increasing their utility to historians, city planners - and artists!
+Since 2000, the Library's web archive program has worked to collect culturally important things from the internet. This collection has grown to include web comics, social media posts and animated GIFs. In this class, we'll look at some of the web archive's recent data releases, and examine ways to computationally explore these large sets of 'born-digital' objects. We'll also look at the ethical issues that are at the center of web archiving, particularly in respect to marginilized people.
 
-**Guest Speaker**: TBA
+**Guest Speaker**: Abbie Grotke
 
 Readings, etc:
 
-1. A Place for Big Data - Yanni Loukissas: https://journals.sagepub.com/doi/abs/10.1177/2053951716661365
+Confronting Our Failure of Care Around the Legacies of Marginalized People in the Archives - Bergis Jules: https://medium.com/on-archivy/confronting-our-failure-of-care-around-the-legacies-of-marginalized-people-in-the-archives-dc4180397280
 
-2. Sanborn Samplers - Gary Fitzpatrick: https://www.loc.gov/collections/sanborn-maps/articles-and-essays/sanborn-samplers
+Not All Information Wants to Be Free - Tara Robertson: http://eprints.rclis.org/32463/1/Applying%20Library%20Values%20to%20Emerging%20Technology_Chapter%2015.pdf
 
 Assignment: 
 
