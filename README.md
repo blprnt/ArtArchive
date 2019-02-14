@@ -80,7 +80,7 @@ Readings, etc:
 
 Assignment: 
 
-TBA
+DATA VEHICLES: Using the provided Glitch template, create a simple tool for travelling across the Library's collections. Please make sure to give your project a title and description. 
 
 
 Class 3 - 2/13/19
@@ -101,7 +101,8 @@ Readings, etc:
 
 Assignment: 
 
-MARC-Y MARC: Using the provided Glitch template, create a visualization (interactive or not) which explores some particular aspect of the MARC records (authority records can also be used)
+
+DATA VEHICLES- REMIX!: Pick another student's vehicle from last week's assignment, and remix it. This could mean giving it a different interface, changing the way that it works, or simply making it look shiny and well-polished! 
 
 
 Class 4 - 2/20/19
@@ -123,7 +124,9 @@ Readings, etc:
 
 3. Sampling DNA From a 1,000-Year-Old Illuminated Manuscript - Sarah Zhang: https://www.theatlantic.com/science/archive/2017/08/the-secret-life-of-illuminated-manuscripts-as-told-in-dna/536172/
 
-Assignment: 
+Assignments: 
+
+MARC-Y MARC: Using the provided Glitch template, create a visualization (interactive or not) which explores some particular aspect of the MARC records (authority records can also be used)
 
 IN THE CROWD: In preparation for our class next week, create and account on crowd.loc.gov and complete at least three transcriptions. 
 
