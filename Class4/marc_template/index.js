@@ -15,6 +15,7 @@ const concat = require('concat-stream');
 const xml2object = require('xml2object');
 const appRoot = require('app-root-path');
 const natural = require('natural');
+const animals = require(appRoot + '/data/common.json');
 
 //Path to your darta directory
 var dataPath = appRoot + "/data";
@@ -106,10 +107,12 @@ var allRecords = [];
 			var t = record.Title.join(" ");
 
 			//Check this string for some seed words
-			var chk = checkForWords(t, ["frog"]);
+			var chk = checkForWords(t, animals.animals);
 			if (chk.chk) {
 				console.log(chk.w + ":" + t);
 				chk.Title = t;
+				chk.Year = record.Year;
+				chk.URL = record.URL;
 				outList.push(chk);
 		    }
 			
@@ -123,7 +126,7 @@ var allRecords = [];
 function checkForWords(_r, _w) {
 	var chk = {chk:false, w:null};
 	for (var i = 0; i < _w.length; i++) {
-		if (_r.indexOf(_w[i]) != -1) {
+		if (_r.indexOf(' ' + _w[i] + ' ') != -1) {
 			chk.chk = true;
 			chk.w = _w[i];
 		}
