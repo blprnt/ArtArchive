@@ -1,0 +1,2 @@
+https://www.loc.gov/cds/downloads/MDSConnect/Subjects.2014.part01.xml.gz
+https://www.loc.gov/cds/downloads/MDSConnect/Subjects.2014.part02.xml.gz

@@ -1,0 +1,11 @@
+https://www.loc.gov/cds/downloads/MDSConnect/Serials.2014.part01.marc8.gz
+https://www.loc.gov/cds/downloads/MDSConnect/Serials.2014.part02.marc8.gz
+https://www.loc.gov/cds/downloads/MDSConnect/Serials.2014.part03.marc8.gz
+https://www.loc.gov/cds/downloads/MDSConnect/Serials.2014.part04.marc8.gz
+https://www.loc.gov/cds/downloads/MDSConnect/Serials.2014.part05.marc8.gz
+https://www.loc.gov/cds/downloads/MDSConnect/Serials.2014.part06.marc8.gz
+https://www.loc.gov/cds/downloads/MDSConnect/Serials.2014.part07.marc8.gz
+https://www.loc.gov/cds/downloads/MDSConnect/Serials.2014.part08.marc8.gz
+https://www.loc.gov/cds/downloads/MDSConnect/Serials.2014.part09.marc8.gz
+https://www.loc.gov/cds/downloads/MDSConnect/Serials.2014.part10.marc8.gz
+https://www.loc.gov/cds/downloads/MDSConnect/Serials.2014.part11.marc8.gz
