@@ -16,18 +16,26 @@ const xml2object = require('xml2object');
 const appRoot = require('app-root-path');
 const natural = require('natural');
 
+//Path to your darta directory
 var dataPath = appRoot + "/data";
-
 const marc_location = dataPath;
+
+//Which subset of the MARC files were we looking for?
 const filePrefix = "Visual.Materials";
-const fileCount = 1;
+//How many of them are there?
+const fileMap = [];
+fileMap["Books"] = 				41;
+fileMap["Computer.Files"] = 	1; 
+fileMap["Maps"] = 				1;
+fileMap["Music"] = 				1; 
+fileMap["Names"] = 				37; 
+fileMap["Serials"] = 			11;
+fileMap["Subjects"] = 			2;
+fileMap["Visual.Materials"] = 	1;
+const fileCount = fileMap[filePrefix];
 
-var docCount = 0;
-var docCounts = [];
-var callNumCounts = [];
-
-
-
+//List to hold objects we want to write to file at the end
+var outList = [];
 
 //XML Parser
 var parser;
@@ -49,21 +57,20 @@ function makeParser() {
 //Record parser
 //Parse MARC record into a usable JSON object
 //https://folgerpedia.folger.edu/Interpreting_MARC_records#2xx
-//SUPER rough for now!
-const marcDict = {};
-marcDict["245"] = {"*" :"Title"};
 
+const marcDict = {};
+
+//These are the particular MARC fields we're interested in.
+marcDict["245"] = {"*" :"Title"};
 marcDict["260"] = {"c" :"Year"};
 marcDict["100"] = {"a" :"Name"};
 marcDict["050"] = {"a" :"CallNumber"};
-
 marcDict["856"] = {"u" :"URL"};
-
-var outList = [];
 
 var allRecords = [];
   function parseRecord(obj) {
  	record = {};
+
 	for (var i = 0; i < obj.datafield.length; i++) {
 		var df = obj.datafield[i];
 		//Get the numeric tag
@@ -89,18 +96,21 @@ var allRecords = [];
 		}
 	}
 
+	//At this point the record object should be populated by our requested fields
+	//But it's good to check anyway!
+
 	if (record.Title) {
 
 		if (record.Title.length > 0) {
+			//Join the parts of the title into one long string.
 			var t = record.Title.join(" ");
 
-		
+			//Check this string for some seed words
 			var chk = checkForWords(t, ["frog"]);
 			if (chk.chk) {
 				console.log(chk.w + ":" + t);
 				chk.Title = t;
 				outList.push(chk);
-				
 		    }
 			
 		}
@@ -108,6 +118,8 @@ var allRecords = [];
 	
 }
 
+
+//Function to check a record for specific words
 function checkForWords(_r, _w) {
 	var chk = {chk:false, w:null};
 	for (var i = 0; i < _w.length; i++) {
@@ -119,22 +131,10 @@ function checkForWords(_r, _w) {
 	return(chk);
 }
 
-
-function incrementDict(dict, val, yi) {
-
-			if (!dict[val]) {
-		    	dict[val] = {
-		    		"name":val,
-		    		"total":0,
-		    		"years":[],
-		    		"callNums":{}
-		    	};
-		   	}
-} 
-
-
+//This method is called when each file is finished parsing
 function onParseFinished() {
 	
+	//Write every time - useful in very long processes
 	writeFile();
 	try {
 		nextFile();
@@ -156,7 +156,6 @@ function nextFile() {
 		allRecords = [];
 
 		console.log("LOADING FILE : " + url);
-		
 		
 			rstream   // reads from myfile.txt.gz
 			  .pipe(gunzip)  // uncompresses
