@@ -124,11 +124,21 @@ var allRecords = [];
 
 //Function to check a record for specific words
 function checkForWords(_r, _w) {
+
+	//Tokenize the record (break it into words)
+	tokenizer = new natural.TreebankWordTokenizer();
+	var words = [tokenizer.tokenize(_r)][0];
+
 	var chk = {chk:false, w:null};
+	
 	for (var i = 0; i < _w.length; i++) {
-		if (_r.indexOf(' ' + _w[i] + ' ') != -1) {
-			chk.chk = true;
-			chk.w = _w[i];
+		for (var j = 0; j < words.length; j++) {
+			//Stem the word we're checking so that dogs becomes dog, etc.
+			var stemmedWord = natural.PorterStemmer.stem(words[j]);
+			if (stemmedWord.toLowerCase() == _w[i].toLowerCase()) {
+				chk.chk = true;
+				chk.w = _w[i];
+			}
 		}
 	}
 	return(chk);
