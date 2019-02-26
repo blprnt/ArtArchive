@@ -100,6 +100,16 @@ var allRecords = [];
 	//At this point the record object should be populated by our requested fields
 	//But it's good to check anyway!
 
+	if (record.Year) {
+		//Use a regex to extract a clean year
+		//This is in a try/catch because sometimes the array returned by match() is null
+		try {
+			record.Year = record.Year[0].match(/(19|20)\d{2}/)[0];
+		} catch (e) {
+
+		}
+	}
+
 	if (record.Title) {
 
 		if (record.Title.length > 0) {
@@ -111,7 +121,7 @@ var allRecords = [];
 			if (chk.chk) {
 				console.log(chk.w + ":" + t);
 				chk.Title = t;
-				chk.Year = record.Year;
+				if (record.Year) chk.Year = record.Year;
 				chk.URL = record.URL;
 				outList.push(chk);
 		    }
