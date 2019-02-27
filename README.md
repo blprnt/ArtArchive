@@ -112,8 +112,6 @@ In this class we'll dig deep into the data offerings from the LOC. Namely, we'll
 
 - Library Section overviews:
 
-	1. Catalina Gomez (Hispanic Reading Room) 12:15 - 12:40
-	2. Kathleen O'Neil (Manuscripts) 12:45 - 1:10
 	3. Ryan Brubacher (Prints & Photographs) 1:15 - 2:00
 
 Readings, etc:
@@ -126,8 +124,6 @@ Readings, etc:
 
 Assignments: 
 
-MARC-Y MARC: Using the provided Glitch template, create a visualization (interactive or not) which explores some particular aspect of the MARC records (authority records can also be used)
-
 IN THE CROWD: In preparation for our class next week, create and account on crowd.loc.gov and complete at least three transcriptions. 
 
 Class 5 - 2/27/19
@@ -135,7 +131,12 @@ Class 5 - 2/27/19
 
 The Library of Congress has never been a public library. Despite this, efforts in the last few years have been launched to engage the public with data creation for some of its most interesting collections. In this class we'll learn about crowd.loc.gov, a platform built to transcribe, review, and tag digitized images of manuscripts and typed materials from the Library’s collections. We'll hear from Library staff, and learn how the project came to be, how it works, and what the future might hold for public involvement with the LOC collections.
 
-**Guest speaker**: LOC Labs
+**Guest speaker**: Virginia Van Hyn
+	ALSO:
+
+	1. Catalina Gomez (Hispanic Reading Room) 12:15 - 12:40
+	2. Kathleen O'Neil (Manuscripts) 12:45 - 1:10
+	3. Stephanie Stillo (Rare Books) 
 
 Readings, etc:
 
@@ -143,13 +144,16 @@ TBA
 
 Assignment: 
 
-TBA
+MARC-Y MARC: Using the provided Glitch template, create a visualization (interactive or not) which explores some particular aspect of the MARC records (authority records can also be used)
 
 
 Class 6 - 3/6/19
 ------------
 
 How do we find things in a collection, in person and online? How do the mechanisms available for finding effect what we learn, and how we think about a collection? What might new ways of finding look like, and how might they act to counter the biases built into the collection and the institution that houses it? 
+
+Guest Speaker: Jenny O'Dell
+	ALSO: Ryan Brubacher (Prints & Photographs)
 
 Readings, etc:
 
