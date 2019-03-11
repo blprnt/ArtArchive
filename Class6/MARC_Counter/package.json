@@ -1,0 +1,19 @@
+{
+  "name": "cleanmarc_list",
+  "version": "1.0.0",
+  "description": "ITP Artists in the Archive MARC Example",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "download-data": "wget --input-file data/urls.txt --directory-prefix data"
+  },
+  "dependencies": {
+    "app-root-path": "^2.1.0",
+    "fs": "^0.0.1-security",
+    "xml2object": "^0.1.2",
+    "zlib": "^1.0.5"
+  },
+  "devDependencies": {},
+  "author": "Jer Thorp",
+  "license": "ISC"
+}

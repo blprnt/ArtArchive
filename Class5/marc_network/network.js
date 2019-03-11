@@ -34,7 +34,7 @@ function makeParser() {
 	parser.outs = [];
 
 	parser.on('object', function(name, obj) {
-		if (Math.random() < 0.1) parseRecord(obj);
+		if (Math.random() < 1) parseRecord(obj);
 	});
 
 	parser.on('end', function() {
@@ -58,6 +58,8 @@ var callDict = {};
 var callYearTotals = [];
 
 var allRecords = [];
+
+
  function parseRecord(obj) {
 
  	record = {};
@@ -216,7 +218,7 @@ function nextFile() {
 
 	console.log("LOADING FILE : " + url);
 	counter ++;
-	if (counter < 42) {
+	if (counter < 10) {
 		rstream   // reads from myfile.txt.gz
 		  .pipe(gunzip)  // uncompresses
 		  .pipe(parser.saxStream); //Parses into record objects

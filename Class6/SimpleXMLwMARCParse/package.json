@@ -1,0 +1,15 @@
+{
+  "name": "simplexmlwmarcparse",
+  "version": "1.0.0",
+  "description": "ITP Artists in the Archive example - XML and MARC",
+  "main": "index.js",
+  "dependencies": {
+    "xml2object": "^0.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

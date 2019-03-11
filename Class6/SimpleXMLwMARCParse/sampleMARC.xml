@@ -1,0 +1,258 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00483nam a2200169 a 4500</leader>
+  <controlfield tag="001">   00000009 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19980220144026.9</controlfield>
+  <controlfield tag="008">980220s1899    nyua          000 1 eng  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">   00000009 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">PS2025</subfield>
+    <subfield code="b">.T5 1899</subfield>
+  </datafield>
+  <datafield tag="051" ind1=" " ind2=" ">
+    <subfield code="a">PS2025</subfield>
+    <subfield code="b">.T5 1899 Copy 2</subfield>
+    <subfield code="c">Copy 2.</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Howells, William Dean,</subfield>
+    <subfield code="d">1837-1920.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Their silver wedding journey /</subfield>
+    <subfield code="c">by W.D. Howells.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">New York :</subfield>
+    <subfield code="b">Harper,</subfield>
+    <subfield code="c">1899.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">2 v. :</subfield>
+    <subfield code="b">ill. ;</subfield>
+    <subfield code="c">21 cm.</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00708cam a22002291  4500</leader>
+  <controlfield tag="001">   00000017 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110630080225.0</controlfield>
+  <controlfield tag="007">cr_|||||||||||</controlfield>
+  <controlfield tag="008">760115s1899    xx            000 0 eng  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">   00000017 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)1929242</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">Vi</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="042" ind1=" " ind2=" ">
+    <subfield code="a">premarc</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">PS2967</subfield>
+    <subfield code="b">.C5 1899</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Tabb, John B.</subfield>
+    <subfield code="q">(John Banister),</subfield>
+    <subfield code="d">1845-1909.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Child verse;</subfield>
+    <subfield code="b">poems grave and gay,</subfield>
+    <subfield code="c">by John B. Tabb.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Boston,</subfield>
+    <subfield code="b">Small, Maynard,</subfield>
+    <subfield code="c">1899.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">78 p.</subfield>
+    <subfield code="c">20 cm.</subfield>
+  </datafield>
+  <datafield tag="530" ind1=" " ind2=" ">
+    <subfield code="a">Also available in digital form on the Internet Archive Web site.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Children&apos;s poetry.</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="1">
+    <subfield code="u">http://hdl.loc.gov/loc.gdc/scd0001.00162561418</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00631cam a22002171  4500</leader>
+  <controlfield tag="001">   00000018 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050909162840.0</controlfield>
+  <controlfield tag="008">910115s1899    nyua          000 0 eng  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">   00000018 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)22962939</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">RPB</subfield>
+    <subfield code="d">RPB</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="042" ind1=" " ind2=" ">
+    <subfield code="a">premarc</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">G127</subfield>
+    <subfield code="b">.T175</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Tarbell, H. S.</subfield>
+    <subfield code="q">(Horace Sumner),</subfield>
+    <subfield code="d">1838-1904.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="4">
+    <subfield code="a">The complete geography.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">New York,</subfield>
+    <subfield code="a">Chicago [etc.]</subfield>
+    <subfield code="b">Werner School Book Co.</subfield>
+    <subfield code="c">[1899]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">152 p.</subfield>
+    <subfield code="b">illus.</subfield>
+    <subfield code="c">fol.</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">Tarbells̕ geographical series</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Geography.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Tarbell, Martha,</subfield>
+    <subfield code="e">joint author.</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00712cam a22002291  4500</leader>
+  <controlfield tag="001">   00000019 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100203080749.0</controlfield>
+  <controlfield tag="007">cr_|||||||||||</controlfield>
+  <controlfield tag="008">770204s1899    nyu           001 0 eng  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">   00000019 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)2721211</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">MiMarqN</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="042" ind1=" " ind2=" ">
+    <subfield code="a">premarc</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">PS3010</subfield>
+    <subfield code="b">.A2 1899</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Thaxter, Celia,</subfield>
+    <subfield code="d">1835-1894.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="4">
+    <subfield code="a">The poems of Celia Thaxter.</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">Appledore edition.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Boston,</subfield>
+    <subfield code="a">New York,</subfield>
+    <subfield code="b">Houghton, Mifflin and company,</subfield>
+    <subfield code="c">1899.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">xiii, 272 p.</subfield>
+    <subfield code="c">20 cm.</subfield>
+  </datafield>
+  <datafield tag="530" ind1=" " ind2=" ">
+    <subfield code="a">Also available in digital form on the Internet Archive Web site.</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="1">
+    <subfield code="u">http://hdl.loc.gov/loc.gdc/scd0001.0016165856A</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00614cam a22002171  4500</leader>
+  <controlfield tag="001">   00000027 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050723212500.0</controlfield>
+  <controlfield tag="008">790222s1899    nyuc          000 0 eng  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">   00000027 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)4679239</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">NNR</subfield>
+    <subfield code="d">NNR</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="042" ind1=" " ind2=" ">
+    <subfield code="a">premarc</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">HF5386</subfield>
+    <subfield code="b">.W85</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Wood, Benjamin,</subfield>
+    <subfield code="d">1865-</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="4">
+    <subfield code="a">The successful man of business,</subfield>
+    <subfield code="c">by Benjamin Wood; illustrations by Richard F. George.</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">2d ed., rev. and enl.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">New York,</subfield>
+    <subfield code="b">Brentano,</subfield>
+    <subfield code="c">1899.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">208 p.</subfield>
+    <subfield code="b">ports.</subfield>
+    <subfield code="c">19 cm.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Success.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Businessmen.</subfield>
+  </datafield>
+</record>
+</collection>
