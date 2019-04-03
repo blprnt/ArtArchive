@@ -220,9 +220,14 @@ Middlewhere: Landscapes of Library Logistics - Shannon Mattern: https://urbanomn
 
 Artist in the Archive Episode Episode 3: https://artistinthearchive.podbean.com/e/episode-3-the-bureaucracy-episode/
 
+Shown in Class:
+
+Matt Miller's classification visualization: https://thisismattmiller.github.io/lcc-hierarchy/
+Introduction to Thomas Jefferson's Library: http://catdir.loc.gov/catdir/toc/becites/main/jefferson/88607928_intro.html
+
 Assignment: 
 
-TBA
+Continued Project Work
 
 
 Class 10 - 4/10/19
@@ -240,7 +245,7 @@ Not All Information Wants to Be Free - Tara Robertson: http://eprints.rclis.org/
 
 Assignment: 
 
-TBA
+Continued Project Work
 
 
 Class 11 - 4/17/19
